@@ -1,5 +1,5 @@
 ## Hi there 👋
-我还没想要要写什么（雾
+我还没想好要写什么（雾
 <!--
 **TTStudio336/TTStudio336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
